@@ -1,0 +1,16 @@
+C:\Users\Alena\Рабочий стол\ООАП\AbstractFabric\bin\Debug\net8.0-windows\AbstractFabric.exe
+C:\Users\Alena\Рабочий стол\ООАП\AbstractFabric\bin\Debug\net8.0-windows\AbstractFabric.deps.json
+C:\Users\Alena\Рабочий стол\ООАП\AbstractFabric\bin\Debug\net8.0-windows\AbstractFabric.runtimeconfig.json
+C:\Users\Alena\Рабочий стол\ООАП\AbstractFabric\bin\Debug\net8.0-windows\AbstractFabric.dll
+C:\Users\Alena\Рабочий стол\ООАП\AbstractFabric\bin\Debug\net8.0-windows\AbstractFabric.pdb
+C:\Users\Alena\Рабочий стол\ООАП\AbstractFabric\obj\Debug\net8.0-windows\AbstractFabric.Form1.resources
+C:\Users\Alena\Рабочий стол\ООАП\AbstractFabric\obj\Debug\net8.0-windows\AbstractFabric.csproj.GenerateResource.cache
+C:\Users\Alena\Рабочий стол\ООАП\AbstractFabric\obj\Debug\net8.0-windows\AbstractFabric.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alena\Рабочий стол\ООАП\AbstractFabric\obj\Debug\net8.0-windows\AbstractFabric.AssemblyInfoInputs.cache
+C:\Users\Alena\Рабочий стол\ООАП\AbstractFabric\obj\Debug\net8.0-windows\AbstractFabric.AssemblyInfo.cs
+C:\Users\Alena\Рабочий стол\ООАП\AbstractFabric\obj\Debug\net8.0-windows\AbstractFabric.csproj.CoreCompileInputs.cache
+C:\Users\Alena\Рабочий стол\ООАП\AbstractFabric\obj\Debug\net8.0-windows\AbstractFabric.dll
+C:\Users\Alena\Рабочий стол\ООАП\AbstractFabric\obj\Debug\net8.0-windows\refint\AbstractFabric.dll
+C:\Users\Alena\Рабочий стол\ООАП\AbstractFabric\obj\Debug\net8.0-windows\AbstractFabric.pdb
+C:\Users\Alena\Рабочий стол\ООАП\AbstractFabric\obj\Debug\net8.0-windows\AbstractFabric.genruntimeconfig.cache
+C:\Users\Alena\Рабочий стол\ООАП\AbstractFabric\obj\Debug\net8.0-windows\ref\AbstractFabric.dll
