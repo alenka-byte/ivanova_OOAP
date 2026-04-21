@@ -1,0 +1,4 @@
+C:\Users\Alena\Рабочий стол\ООАП\CommandVS\x64\Debug\CommandVS.vcxproj.AssemblyReference.cache
+C:\Users\Alena\Рабочий стол\ООАП\CommandVS\x64\Debug\CommandVS.exe
+C:\Users\Alena\Рабочий стол\ООАП\CommandWithout\x64\Debug\CommandVS.vcxproj.AssemblyReference.cache
+C:\Users\Alena\Рабочий стол\ООАП\CommandWithout\x64\Debug\CommandWithout.exe
