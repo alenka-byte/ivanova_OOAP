@@ -1,0 +1,7 @@
+Компиляция:
+javac -cp ".;mysql-connector-j-9.6.0.jar" *.java
+Запуск:
+С паттерном
+java -cp ".;mysql-connector-j-9.6.0.jar" LibrarySwingApp
+Без паттерна
+java -cp ".;mysql-connector-j-9.6.0.jar" SimpleLibraryApp
